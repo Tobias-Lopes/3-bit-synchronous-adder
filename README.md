@@ -1,9 +1,10 @@
-# Somador-Síncrono-de-3-bits
-Projeto no Logisim de Somador Síncrono de 3 bits feito para aula de arquitetura de Computadores
-Partes do projeto:
-Circuito somador COMPLETO de 3 bits + Registrador de 3 bits + Circuito conversor de 3 bits para display de 7 segmentos.
+# 3-bit-synchronous-adder
+Logisim project of a 3-bit Synchronous Adder made for a Computer Architecture class
+Parts of the project:
+3-bit FULL adder circuit + 3-bit register + 3-bit converter circuit for 7-segment display.
 
-Como funciona:
-1° Habilite o clock em qualquer frequência;
-2° Soma o número binário de 3 bits A + o número binário de 3 bits B e apresenta o resultado no display de 7 segmentos (o resultado é no máximo 7).
+How it works:
+1° Enable clocking at any frequency;
+2° Add the 3-bit binary number A + the 3-bit binary number B and display the result on the 7-segment display (the result is a maximum of 7).
 
+![Image](https://github.com/user-attachments/assets/d30ae179-ca08-4e30-bef4-9b44787beadc)
